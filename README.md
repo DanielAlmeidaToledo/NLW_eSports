@@ -10,7 +10,8 @@
 - SQLite
 - Express
 - Prisma Studio
-- Radix
+- Radix-UI
+- Tailwind CSS
 - Vite
 
 ## 🎯 Objetivo:
